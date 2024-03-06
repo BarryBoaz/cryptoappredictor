@@ -1,0 +1,2 @@
+# cryptoappredictor
+ marketpredictor
